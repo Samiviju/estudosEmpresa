@@ -1,0 +1,14 @@
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.exe
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.deps.json
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.runtimeconfig.json
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.runtimeconfig.dev.json
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.dll
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\bin\Debug\netcoreapp3.1\estudosEmpresa.pdb
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.csproj.AssemblyReference.cache
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.AssemblyInfoInputs.cache
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.AssemblyInfo.cs
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.dll
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.pdb
+C:\Estudos\C#\estudosEmpresa\estudosEmpresa\obj\Debug\netcoreapp3.1\estudosEmpresa.genruntimeconfig.cache
