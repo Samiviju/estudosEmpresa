@@ -26,7 +26,6 @@ namespace estudosEmpresa
                 Console.WriteLine("Errado");
             }
 
-            Console.WriteLine("Alo");
 
 
 
